@@ -1,6 +1,8 @@
 {
     "name": "henrick/composer-test",
     "description": "测试包",
+    "keywords": ["测试包","composer-test"],
+    "homepage": "https://github.com/iwepartner/composer-test",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,5 +12,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Henrick\\TestLib": "src/"
+        }
+    }
 }
