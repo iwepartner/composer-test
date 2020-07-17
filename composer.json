@@ -1,6 +1,7 @@
 {
     "name": "wepartner/composer-test",
     "description": "测试包",
+    "version": "1.0.0",
     "keywords": ["测试包","composer-test"],
     "homepage": "https://github.com/iwepartner/composer-test",
     "type": "library",
