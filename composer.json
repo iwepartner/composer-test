@@ -1,0 +1,14 @@
+{
+    "name": "henrick/composer-test",
+    "description": "测试包",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "henrick",
+            "email": "henrick@vip.qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
