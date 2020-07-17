@@ -15,7 +15,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Henrick\\TestLib": "src/"
+            "Henrick\\TestLib\\": "src/"
         }
     }
 }
